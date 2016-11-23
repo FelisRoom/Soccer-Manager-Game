@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&subset=greek');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&subset=greek');
+
+html {
+    font: normal 14px / 20px 'Roboto';
+}
+
+/* Headings
+ ========================================================================== */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Open Sans Condensed';
+    font-weight: 700;
+}
+
+.home-team-logo {
+    max-height: 7.1em;
+}
+
+.hm-award-image {
+    height: 290px;
+    padding-bottom: 13px;
+}
+
+.hm-about-title {
+    line-height: 35px;
+}
+
+.va-promo-text .hm-promo-sub {
+    padding: 0 20px;
+    line-height: 30px;
+    background: rgba(0, 0, 0, 0.5);
+    width: auto;
+    display: inline;
+}
